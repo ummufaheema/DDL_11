@@ -1,0 +1,5 @@
+insert into tbl_supplier (vchr_suppliername)  values ('Logitech');
+insert into tbl_supplier (vchr_suppliername)  values ('Samsung');
+insert into tbl_supplier (vchr_suppliername)  values ('Iball');
+insert into tbl_supplier (vchr_suppliername)  values ('LG');
+insert into tbl_supplier (vchr_suppliername)  values ('Creative');
